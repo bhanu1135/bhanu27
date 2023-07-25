@@ -1,0 +1,2 @@
+a="bhanu"
+print(a)
